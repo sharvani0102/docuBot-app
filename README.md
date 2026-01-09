@@ -44,9 +44,9 @@ It allows users to upload PDF documents and ask questions, with answers generate
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/sharvani0102/docuBot-app.git
-cd docuBot-app
+cd docuBot-app 
 
 2️⃣ Create a Virtual Environment (Recommended)
 python -m venv venv
@@ -91,6 +91,7 @@ Authentication for private documents
 📜 License
 This project is licensed under the Apache License 2.0.
 See the LICENSE file for more details.
+
 
 
 
