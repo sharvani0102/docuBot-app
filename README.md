@@ -28,19 +28,6 @@ It allows users to upload PDF documents and ask questions, with answers generate
 
 ---
 
-## 📁 Project Structure
-
-📦 docuBot-app
-├── .devcontainer/ # Dev container configuration
-├── .github/ # GitHub workflows/configs
-├── .gitignore # Git ignore rules
-├── LICENSE # Apache-2.0 License
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── streamlit_app.py # Main Streamlit application
-
----
-
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
@@ -91,6 +78,7 @@ Authentication for private documents
 📜 License
 This project is licensed under the Apache License 2.0.
 See the LICENSE file for more details.
+
 
 
 
